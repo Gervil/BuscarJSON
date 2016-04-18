@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		20B023A51CB952ED0023E600 /* VistaResultados.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B023A41CB952ED0023E600 /* VistaResultados.swift */; };
+		20F7B4C31CC539C000D51F17 /* Imagenes in Resources */ = {isa = PBXBuildFile; fileRef = 20F7B4C21CC539C000D51F17 /* Imagenes */; };
 		20F87E751CB80D9F00D5A0D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F87E741CB80D9F00D5A0D0 /* AppDelegate.swift */; };
 		20F87E771CB80D9F00D5A0D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F87E761CB80D9F00D5A0D0 /* ViewController.swift */; };
 		20F87E7A1CB80D9F00D5A0D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20F87E781CB80D9F00D5A0D0 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		20B023A41CB952ED0023E600 /* VistaResultados.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VistaResultados.swift; sourceTree = "<group>"; };
+		20F7B4C21CC539C000D51F17 /* Imagenes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Imagenes; path = ConexionHTTP/Imagenes; sourceTree = "<group>"; };
 		20F87E711CB80D9E00D5A0D0 /* ConexionHTTP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConexionHTTP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20F87E741CB80D9F00D5A0D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20F87E761CB80D9F00D5A0D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		20F87E681CB80D9E00D5A0D0 = {
 			isa = PBXGroup;
 			children = (
+				20F7B4C21CC539C000D51F17 /* Imagenes */,
 				20F87E731CB80D9E00D5A0D0 /* ConexionHTTP */,
 				20F87E721CB80D9E00D5A0D0 /* Products */,
 			);
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20F87E7F1CB80D9F00D5A0D0 /* LaunchScreen.storyboard in Resources */,
+				20F7B4C31CC539C000D51F17 /* Imagenes in Resources */,
 				20F87E7C1CB80D9F00D5A0D0 /* Assets.xcassets in Resources */,
 				20F87E7A1CB80D9F00D5A0D0 /* Main.storyboard in Resources */,
 			);
